@@ -1,4 +1,4 @@
-# cisc210-monogram
+# Monogram
 connecting to Pi Sense Hat to display moving initials
 The BZ file, when compiled, displays the uppercase letters BZ in white sequentially, split by a shamrock display in green.
 Only one letter or symbol is displayed at a time, displayed for 1 second each before turning black and
